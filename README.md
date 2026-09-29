@@ -77,3 +77,7 @@ labkit/ui.py
 | pages enabled | Site intended at `https://theworker02.github.io/nutrient-turnover-lab/` |
 
 Detailed narrative for the stable line lives in [CHANGELOG.md](./CHANGELOG.md) and the [v1.0.0 GitHub Release](https://github.com/theworker02/nutrient-turnover-lab/releases/tag/v1.0.0).
+
+## Acquisition
+
+See [ACQUISITION.md](./ACQUISITION.md) for the diligence-oriented product brief, asset map, and commercial posture notes.
